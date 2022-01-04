@@ -1,0 +1,10 @@
+@font-face{
+    src: url(../fonts/lobster/Lobster-Regular.ttf);
+    font-family: Lob;
+
+    src: url(../fonts/raleway/Raleway-Regular.ttf);
+    font-family: Ral;
+
+    src: url(../fonts/yanone/YanoneKaffeesatz-Regular.ttf);
+    font-family: Yan;
+}
