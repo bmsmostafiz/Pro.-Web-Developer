@@ -56,7 +56,7 @@ body{
     font-weight: normal;
 }
 .about-me h5{
-    font-size: 15px;
+    font-size: 20px;
     margin-left: 10px;
     font-family: Lob;
 }
@@ -316,5 +316,12 @@ body{
 @media screen and (max-width: 1399px){
     .about-me h1{
         font-size: 25px;
+    }
+}
+
+
+@media screen and (max-width: 900px){
+    .social-icon li {
+        height: 42px;
     }
 }
